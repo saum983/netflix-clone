@@ -34,5 +34,3 @@ This is a **Netflix-inspired homepage clone** built using **HTML and CSS**. It f
 - Build confidence for more advanced frontend projects.
 
 ---
-Feel free to explore, experiment, and contribute!
-

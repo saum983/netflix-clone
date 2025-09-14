@@ -1,4 +1,4 @@
-# 📺 Netflix Clone – Frontend
+#  Netflix Clone – Frontend
 
 This is a **Netflix-inspired homepage clone** built using **HTML and CSS**. It focuses on replicating the layout, styling, and responsiveness of the Netflix interface without JavaScript functionality. This is a beginner-friendly project aimed at helping learners practice modern web design techniques and structure complex layouts.
 

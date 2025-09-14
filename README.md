@@ -18,19 +18,3 @@ This is a **Netflix-inspired homepage clone** built using **HTML and CSS**. It f
 - **CSS3** – Styling using Flexbox, Grid, and media queries for responsive behavior.
 
 ---
-
-##  Future Improvements
-- Add JavaScript for interactive carousels and animations.
-- Create login and signup pages with form validation.
-- Integrate with APIs to fetch real movie data.
-- Implement video previews, hover effects, and transitions.
-
----
-
-##  Learning Outcomes
-- Improve layout techniques with CSS Grid and Flexbox.
-- Learn responsive web design principles.
-- Enhance UI/UX design skills.
-- Build confidence for more advanced frontend projects.
-
----
